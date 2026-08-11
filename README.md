@@ -159,13 +159,6 @@ AI: "앞서 추천한 클렌저와 함께 사용하기 좋은 토너로는..."
 - 로컬에서만 실행 (외부 노출 없음)
 - 데이터는 서버에 저장되지 않음
 
-## 📝 API 문서
-
-백엔드 실행 후 다음 주소에서 자동 생성된 API 문서를 확인할 수 있습니다:
-
-- **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
-
 ### 주요 엔드포인트
 
 #### POST /api/v1/query
@@ -243,11 +236,11 @@ TOP_K_RESULTS=10       # 더 많은 문서 검색
 
 ## 📄 라이선스
 
-이 프로젝트는 교육 목적으로 제작되었습니다.
+이 프로젝트는 아모레퍼시픽 공모전 목적으로 제작되었습니다.
 
 ## 👥 제작자
 
-Your Name - your.email@example.com
+Viewtic 팀원 일동 - khs10049731@gmail.com
 
 ## 🙏 감사의 말
 
