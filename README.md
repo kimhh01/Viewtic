@@ -96,7 +96,6 @@ cp your-data/integrated_skincare_analysis.csv AI_model/data/
 ./start_gui.sh      # Windows: start_gui.bat
 ```
 
-자세한 설치 가이드는 [setup_guide.md](setup_guide.md)를 참조하세요.
 
 ## 🎯 사용 예시
 
